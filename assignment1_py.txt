@@ -1,0 +1,15 @@
+Python 3.10.1 (tags/v3.10.1:2cd268a, Dec  6 2021, 19:10:37) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+================ RESTART: C:/Users/sidsam/Desktop/assignment1.py ===============
+enter first no.3
+enter second no.4
+enter third no.1
+2.6666666666666665
+enter your gross income50000.23
+enter no. of dependants3
+your tax is 6200.046000000001
+[21104004, 'siddhant', 'M', 'electrical engineering', 9.5]
+[80, 90, 96, 99, 100]
+['Red', 'Green', 'White', 'Pink', 'Yellow']
+['Red', 'Green', 'White', 'Purple', 'Yellow']
