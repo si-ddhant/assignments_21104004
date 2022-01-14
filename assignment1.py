@@ -4,12 +4,11 @@ a= float(input("enter first no."))
 b= float(input("enter second no."))
 c= float(input("enter third no."))
 
-#Q2
 #program to find AVERAGE of the input no.s
 avg = (a+b+c)/3
 print(avg)
 
-#Q3
+#Q2
 #taking input of gross income and dependants from user
 gInc = float(input("enter your gross income"))
 dep = int(input("enter no. of dependants"))
@@ -22,10 +21,11 @@ taxable_income = gInc - std_ded - (dep*3000)
 tax= taxable_income*rate
 print("your tax is",tax)
 
-#Q4
+#Q3
 student = [21104004, "siddhant", 'M', "electrical engineering",9.5]
 print(student)
 
+#Q4
 marks = [96,90,80,99,100]
 marks.sort() #inbuilt function for sorting
 print(marks)
