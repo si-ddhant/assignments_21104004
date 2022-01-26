@@ -1,0 +1,29 @@
+Python 3.10.1 (tags/v3.10.1:2cd268a, Dec  6 2021, 19:10:37) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+= RESTART: C:/Users/sidsam/AppData/Local/Programs/Python/Python310/assignment1.py
+35
+egaugnal evitisnes esac a si nohtyP
+a case sensitive 
+Python is object oriented language
+10
+Pythonisacasesensitivelanguage
+Hey, Siddhant Here!
+My SID is 21104004 
+I am from Electrical department and my CGPA is 9.8
+8
+58
+50
+224 40
+14 0
+enter 1st no.1
+enter 2nd no.2
+enter 3rd no.3
+3.0
+enter anything
+my name is siddhant
+yes
+enter first side of triangle 100
+enter second side of triangle 1
+enter third side of triangle 2
+No
