@@ -1,0 +1,49 @@
+Python 3.10.2 (tags/v3.10.2:a58ebcc, Jan 17 2022, 14:12:15) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+================ RESTART: C:/Users/sidsam/Desktop/assignment3.py ===============
+enter a word or sentence my name sid sid singh
+{'my': 1, 'name': 1, 'sid': 2, 'singh': 1}
+enter day 1
+enter month 1
+enter year 2001
+Next Date is: 2 / 1 / 2001
+enter no. of elements4
+element1
+element3
+element1
+element2
+[(1, 1), (3, 9), (1, 1), (2, 4)]
+enter grade point 8
+Your Grade is 'B+' and Very Good performance
+A B C D E F G H I J K 
+  A B C D E F G H I 
+    A B C D E F G 
+      A B C D E 
+        A B C 
+          A 
+enter sid1
+enter names
+Y or N Y
+enter sid3
+enter namen
+Y or N Y
+enter sid2
+enter namesiddhant
+Y or N N
+{1: 's', 3: 'n', 2: 'siddhant'}
+[(3, 'n'), (1, 's'), (2, 'siddhant')]
+(1, 's') (2, 'siddhant') (3, 'n') 
+
+enter sid 2
+siddhant
+enter no. of terms8
+Fibonacci sequence:
+011235813
+
+4.125
+{1, 3, 5, 6, 8}
+{3, 6, 8, 9, 13, 17}
+{1, 2, 4, 5}
+{6, 7, 8, 9, 10}
+{10, 7}
